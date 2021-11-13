@@ -6,18 +6,19 @@ Current version: stable but lacking features, cleanups and shine
 
 Features/Updates awaiting implementation:
 
-  Options in general -
+- Options in general:
   
-    Language support
-    
+    Language support  
     Maybe music?
   
-  Functionality - 
+- Functionality
+
     Quicker runtime
     Multiplatform support
     Installer
     Shortcut generation
     
-  Detail -
+- Detail
+
     Pictures
     Maybe GUI?
