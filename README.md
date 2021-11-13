@@ -8,18 +8,14 @@ Features/Updates awaiting implementation:
 
 - Options in general:
   -  Language support 
-  
-    Language support  
-    Maybe music?
+  -  Maybe music?
   
 - Functionality
-
-    Quicker runtime
-    Multiplatform support
-    Installer
-    Shortcut generation
+  - Quicker runtime
+  - Multiplatform support
+  - Installer
+  - Shortcut generation
     
 - Detail
-
-    Pictures
-    Maybe GUI?
+  - Pictures
+  - Maybe GUI?
