@@ -1,6 +1,8 @@
 # Battleships
 Simple Battleships game played via Console/Terminal.
+
 Requires .Net 5.0 JDK.
+
 
 Current version: stable but lacking features, cleanups and shine
 
