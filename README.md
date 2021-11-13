@@ -6,7 +6,9 @@ Current version: stable but lacking features, cleanups and shine
 
 Features/Updates awaiting implementation:
   Options in general -
+  
     Language support
+    
     Maybe music?
   
   Functionality - 
