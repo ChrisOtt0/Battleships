@@ -14,7 +14,6 @@ Current version: stable but lacking features, cleanups and shine
     -  Maybe music?
   
   - Functionality
-    - Quicker runtime
     - Multiplatform support
     - Installer
     - Shortcut generation
