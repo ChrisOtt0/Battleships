@@ -5,7 +5,7 @@ Requires .Net 5.0 JDK.
 
 
 
-Current version: stable but lacking features, cleanups and shine
+Current version: stable but lacking features & cleaning up
 
 - Features/Updates awaiting implementation:
 
